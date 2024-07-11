@@ -1,2 +1,11 @@
-1.user input 3 numbers in decimal value
-2. I am using logical operator base on what user Input A & B & C values.
+Explanation:
+Input Handling: The program takes three integers as input.
+Condition Checking: The conditions check if the number is greater than one number and less than the other, which means it is the middle number.
+Output: The middle number is printed based on the conditions.
+This code correctly identifies and prints the middle number among the three provided integers.
+
+
+
+
+
+
